@@ -1,4 +1,3 @@
-# Journal-App 📝
 ### For the **PROGRAMMING CLUB**
 
 ## 🚀 Live Demo
