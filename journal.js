@@ -819,7 +819,6 @@ function navButton(elm, id) {
     dropdownElement.appendChild(newDButton("save as", "saveAs(this)"));
   } else if (id == 3) {
     dropdownElement.appendChild(newDButton("from file", "loadFile(this)"));
-    dropdownElement.appendChild(newDButton("from url", "loadUrl(this)"));
   } else if (id == 4) {
     // CALENDAR
   } else if (id == 5) {
