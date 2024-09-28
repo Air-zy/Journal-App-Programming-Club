@@ -1,6 +1,6 @@
 # Journal-App
-for programming club
-challenged by saladstik (https://github.com/SaladStik)
+for PROGRAMMING CLUB
+challenged by saladstik(https://github.com/SaladStik)
 
-Hosted in
+🚀 Live Demo
 https://airzy.glitch.me/journal
